@@ -1,4 +1,4 @@
-# jira-itgc-sox-assessment
+# Jira IT General controls assessment
 SOX Section 404–aligned IT General Controls (ITGC) assessment of a Jira change management environment supporting regulated operations.
 /README.md
 /docs/
